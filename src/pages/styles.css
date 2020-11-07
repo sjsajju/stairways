@@ -1,0 +1,18 @@
+.container {
+    width: 1170px;
+    padding: 0px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.head-section {
+    margin-bottom: 50px;
+}
+
+.wdt-100 {
+    width: 100%;
+    float: left;
+}
