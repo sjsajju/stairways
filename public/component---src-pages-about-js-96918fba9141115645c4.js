@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(t,a,e){"use strict";e.r(a);var n=e("q1tI"),o=e.n(n),i=(e("Wbzz"),e("7oih")),r=e("vrFN");e("PlsM");a.default=function(){return o.a.createElement(i.a,null,o.a.createElement(r.a,{title:"About Us"}),o.a.createElement("div",{style:{marginTop:"20%",marginBottom:"20%"}}))}},PlsM:function(t,a,e){t.exports=e.p+"static/about-da26ad36116592544c04a441362a2336.jpg"}}]);
+//# sourceMappingURL=component---src-pages-about-js-96918fba9141115645c4.js.map
